@@ -1,0 +1,2422 @@
+fileFormatVersion: 2
+guid: 5f745ff69dfa3405787d12646038e8ad
+timeCreated: 1497032577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario_luigi_sprite_sheet_0
+    21300002: mario_luigi_sprite_sheet_1
+    21300004: mario_luigi_sprite_sheet_2
+    21300006: mario_luigi_sprite_sheet_3
+    21300008: mario_luigi_sprite_sheet_4
+    21300010: mario_luigi_sprite_sheet_5
+    21300012: mario_luigi_sprite_sheet_6
+    21300014: mario_luigi_sprite_sheet_7
+    21300016: mario_luigi_sprite_sheet_8
+    21300018: mario_luigi_sprite_sheet_9
+    21300020: mario_luigi_sprite_sheet_10
+    21300022: mario_luigi_sprite_sheet_11
+    21300024: mario_luigi_sprite_sheet_12
+    21300026: mario_luigi_sprite_sheet_13
+    21300028: mario_luigi_sprite_sheet_14
+    21300030: mario_luigi_sprite_sheet_15
+    21300032: mario_luigi_sprite_sheet_16
+    21300034: mario_luigi_sprite_sheet_17
+    21300036: mario_luigi_sprite_sheet_18
+    21300038: mario_luigi_sprite_sheet_19
+    21300040: mario_luigi_sprite_sheet_20
+    21300042: mario_luigi_sprite_sheet_21
+    21300044: mario_luigi_sprite_sheet_22
+    21300046: mario_luigi_sprite_sheet_23
+    21300048: mario_luigi_sprite_sheet_24
+    21300050: mario_luigi_sprite_sheet_25
+    21300052: mario_luigi_sprite_sheet_26
+    21300054: mario_luigi_sprite_sheet_27
+    21300056: mario_luigi_sprite_sheet_28
+    21300058: mario_luigi_sprite_sheet_29
+    21300060: mario_luigi_sprite_sheet_30
+    21300062: mario_luigi_sprite_sheet_31
+    21300064: mario_luigi_sprite_sheet_32
+    21300066: mario_luigi_sprite_sheet_33
+    21300068: mario_luigi_sprite_sheet_34
+    21300070: mario_luigi_sprite_sheet_35
+    21300072: mario_luigi_sprite_sheet_36
+    21300074: mario_luigi_sprite_sheet_37
+    21300076: mario_luigi_sprite_sheet_38
+    21300078: mario_luigi_sprite_sheet_39
+    21300080: mario_luigi_sprite_sheet_40
+    21300082: mario_luigi_sprite_sheet_41
+    21300084: mario_luigi_sprite_sheet_42
+    21300086: mario_luigi_sprite_sheet_43
+    21300088: mario_luigi_sprite_sheet_44
+    21300090: mario_luigi_sprite_sheet_45
+    21300092: mario_luigi_sprite_sheet_46
+    21300094: mario_luigi_sprite_sheet_47
+    21300096: mario_luigi_sprite_sheet_48
+    21300098: mario_luigi_sprite_sheet_49
+    21300100: mario_luigi_sprite_sheet_50
+    21300102: mario_luigi_sprite_sheet_51
+    21300104: mario_luigi_sprite_sheet_52
+    21300106: mario_luigi_sprite_sheet_53
+    21300108: mario_luigi_sprite_sheet_54
+    21300110: mario_luigi_sprite_sheet_55
+    21300112: mario_luigi_sprite_sheet_56
+    21300114: mario_luigi_sprite_sheet_57
+    21300116: mario_luigi_sprite_sheet_58
+    21300118: mario_luigi_sprite_sheet_59
+    21300120: mario_luigi_sprite_sheet_60
+    21300122: mario_luigi_sprite_sheet_61
+    21300124: mario_luigi_sprite_sheet_62
+    21300126: mario_luigi_sprite_sheet_63
+    21300128: mario_luigi_sprite_sheet_64
+    21300130: mario_luigi_sprite_sheet_65
+    21300132: mario_luigi_sprite_sheet_66
+    21300134: mario_luigi_sprite_sheet_67
+    21300136: mario_luigi_sprite_sheet_68
+    21300138: mario_luigi_sprite_sheet_69
+    21300140: mario_luigi_sprite_sheet_70
+    21300142: mario_luigi_sprite_sheet_71
+    21300144: mario_luigi_sprite_sheet_72
+    21300146: mario_luigi_sprite_sheet_73
+    21300148: mario_luigi_sprite_sheet_74
+    21300150: mario_luigi_sprite_sheet_75
+    21300152: mario_luigi_sprite_sheet_76
+    21300154: mario_luigi_sprite_sheet_77
+    21300156: mario_luigi_sprite_sheet_78
+    21300158: mario_luigi_sprite_sheet_79
+    21300160: mario_luigi_sprite_sheet_80
+    21300162: mario_luigi_sprite_sheet_81
+    21300164: mario_luigi_sprite_sheet_82
+    21300166: mario_luigi_sprite_sheet_83
+    21300168: mario_luigi_sprite_sheet_84
+    21300170: mario_luigi_sprite_sheet_85
+    21300172: mario_luigi_sprite_sheet_86
+    21300174: mario_luigi_sprite_sheet_87
+    21300176: mario_luigi_sprite_sheet_88
+    21300178: mario_luigi_sprite_sheet_89
+    21300180: mario_luigi_sprite_sheet_90
+    21300182: mario_luigi_sprite_sheet_91
+    21300184: mario_luigi_sprite_sheet_92
+    21300186: mario_luigi_sprite_sheet_93
+    21300188: mario_luigi_sprite_sheet_94
+    21300190: mario_luigi_sprite_sheet_95
+    21300192: mario_luigi_sprite_sheet_96
+    21300194: mario_luigi_sprite_sheet_97
+    21300196: mario_luigi_sprite_sheet_98
+    21300198: mario_luigi_sprite_sheet_99
+    21300200: mario_luigi_sprite_sheet_100
+    21300202: mario_luigi_sprite_sheet_101
+    21300204: mario_luigi_sprite_sheet_102
+    21300206: mario_luigi_sprite_sheet_103
+    21300208: mario_luigi_sprite_sheet_104
+    21300210: mario_luigi_sprite_sheet_105
+    21300212: mario_luigi_sprite_sheet_106
+    21300214: mario_luigi_sprite_sheet_107
+    21300216: mario_luigi_sprite_sheet_108
+    21300218: mario_luigi_sprite_sheet_109
+    21300220: mario_luigi_sprite_sheet_110
+    21300222: mario_luigi_sprite_sheet_111
+    21300224: mario_luigi_sprite_sheet_112
+    21300226: mario_luigi_sprite_sheet_113
+    21300228: mario_luigi_sprite_sheet_114
+    21300230: mario_luigi_sprite_sheet_115
+    21300232: mario_luigi_sprite_sheet_116
+    21300234: mario_luigi_sprite_sheet_117
+    21300236: mario_luigi_sprite_sheet_118
+    21300238: mario_luigi_sprite_sheet_119
+    21300240: mario_luigi_sprite_sheet_120
+    21300242: mario_luigi_sprite_sheet_121
+    21300244: mario_luigi_sprite_sheet_122
+    21300246: mario_luigi_sprite_sheet_123
+    21300248: mario_luigi_sprite_sheet_124
+    21300250: mario_luigi_sprite_sheet_125
+    21300252: mario_luigi_sprite_sheet_126
+    21300254: mario_luigi_sprite_sheet_127
+    21300256: mario_luigi_sprite_sheet_128
+    21300258: mario_luigi_sprite_sheet_129
+    21300260: mario_luigi_sprite_sheet_130
+    21300262: mario_luigi_sprite_sheet_131
+    21300264: mario_luigi_sprite_sheet_132
+    21300266: mario_luigi_sprite_sheet_133
+    21300268: mario_luigi_sprite_sheet_134
+    21300270: mario_luigi_sprite_sheet_135
+    21300272: mario_luigi_sprite_sheet_136
+    21300274: mario_luigi_sprite_sheet_137
+    21300276: mario_luigi_sprite_sheet_138
+    21300278: mario_luigi_sprite_sheet_139
+    21300280: mario_luigi_sprite_sheet_140
+    21300282: mario_luigi_sprite_sheet_141
+    21300284: mario_luigi_sprite_sheet_142
+    21300286: mario_luigi_sprite_sheet_143
+    21300288: mario_luigi_sprite_sheet_144
+    21300290: mario_luigi_sprite_sheet_145
+    21300292: mario_luigi_sprite_sheet_146
+    21300294: mario_luigi_sprite_sheet_147
+    21300296: mario_luigi_sprite_sheet_148
+    21300298: mario_luigi_sprite_sheet_149
+    21300300: mario_luigi_sprite_sheet_150
+    21300302: mario_luigi_sprite_sheet_151
+    21300304: mario_luigi_sprite_sheet_152
+    21300306: mario_luigi_sprite_sheet_153
+    21300308: mario_luigi_sprite_sheet_154
+    21300310: mario_luigi_sprite_sheet_155
+    21300312: mario_luigi_sprite_sheet_156
+    21300314: mario_luigi_sprite_sheet_157
+    21300316: mario_luigi_sprite_sheet_158
+    21300318: mario_luigi_sprite_sheet_159
+    21300320: mario_luigi_sprite_sheet_160
+    21300322: mario_luigi_sprite_sheet_161
+    21300324: mario_luigi_sprite_sheet_162
+    21300326: mario_luigi_sprite_sheet_163
+    21300328: mario_luigi_sprite_sheet_164
+    21300330: mario_luigi_sprite_sheet_165
+    21300332: mario_luigi_sprite_sheet_166
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 880
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 840
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 841
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 840
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 840
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 840
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 840
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 840
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 824
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 825
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 826
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 799
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 800
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 799
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 800
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 799
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 799
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 800
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 762
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 761
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 760
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 760
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 759
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 759
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 760
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 761
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 761
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 760
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 718
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 719
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 718
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 718
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 718
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 718
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 718
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 721
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 723
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 726
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 681
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 682
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 688
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 681
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 680
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 680
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 681
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 687
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 686
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 686
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 641
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 642
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 642
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 641
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 641
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 642
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 644
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 645
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 648
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 593
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 597
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 600
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 599
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 599
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 600
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 597
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 595
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 590
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 592
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 563
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 563
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 563
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 559
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 559
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 559
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 559
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 559
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 559
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 516
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 466
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 467
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 466
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 466
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 466
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 467
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 467
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 473
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 473
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 472
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 472
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 473
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 423
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 423
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 425
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 424
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 424
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 424
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 425
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 430
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 430
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 430
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 430
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 430
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 378
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 378
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 378
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 378
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 381
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 382
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 380
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 337
+        width: 17
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 337
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 336
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 336
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 335
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 336
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 244
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 244
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 246
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 242
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 247
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 241
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 242
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 243
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 243
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 190
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 190
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 192
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 193
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 187
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 190
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 190
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 189
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 200
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 140
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 139
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 142
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 143
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 138
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 143
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 139
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 144
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 139
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 93
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 93
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 92
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 91
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 90
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_luigi_sprite_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 312
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
