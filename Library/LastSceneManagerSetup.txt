@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/00 Main Menu.unity
+- path: Assets/_Scenes/01 Test Dialogue.unity
   isLoaded: 1
   isActive: 1
